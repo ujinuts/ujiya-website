@@ -1,0 +1,140 @@
+body{
+    font-family: DIN;
+    background-image: url(./img/無題557_20211220214509.png);
+    background-repeat: no-repeat;
+    background-position: 100px 55px;
+    
+
+}
+
+header-logo{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+    color: rgb(116, 79, 138);
+}
+
+header-logo2{
+    font-size: 20px;
+    color: rgb(143, 94, 127);
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.headermenu li {
+    float: right;
+    list-style: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    
+}
+
+.l-header {
+    color: rgb(226, 43, 119);
+}
+
+.l-header a[href*="会員情報"]{
+    color: rgb(162, 226, 43);
+}
+
+a:hover{
+    background-color: rgba(255, 192, 19, 0.445);
+}
+
+.pet{
+    color: rosybrown;
+    margin: 20px 170px 0px 130px;
+    padding: 60px 50px;
+}
+
+h2{
+    color: rosybrown;
+    margin: 0px 0px 0px 0px;
+    font-size: 32px;
+}
+header{
+    background-color: rgba(223, 213, 185, 0.5);
+    height: 66px;
+}
+
+body{
+    b    ackground-color: rgb(255, 244, 208);
+}
+
+.btn{
+    
+    float: right;
+    display: inline-block;
+    width: 100px;
+    padding: 20px 10px;
+    margin-right: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.25s;
+    border-width: 0ch;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+    color: #fff;
+    background-color: #DD742C;
+    
+}
+
+.btn:hover{
+    color: rgb(240, 162, 149);
+}
+
+
+footer{
+
+  
+    background-color: rgb(162, 165, 190);
+    color: rgb(234, 236, 243);
+    height: 160px;
+}
+
+.Twitter{
+
+    margin-left: 30px;
+}
+
+.url1{
+    
+    margin-left: 30px;
+}
+
+.setumei{
+
+   font-size: 25px;
+  
+
+   
+}
+.box{
+
+    width: 300px;
+    height: 250px;
+    background-color: darksalmon;
+}
+
+.memo{
+    
+    font-size: 20px;
+    margin-top: 0;
+    margin-left: 30px;
+    color: rgb(121, 59, 59);
+    
+}
+
+
+small{
+    float:right;
+    margin: 0 20px 0 ;
+}
+
+.gazou{
+    width:200px;
+    height: 100px;
+
+}
+
